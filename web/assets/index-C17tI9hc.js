@@ -1,0 +1,1 @@
+import{g as e,o as n}from"./index-Dr0sOEYU.js";const a=Object.assign({name:"InventoryCheckIndex"},{__name:"index",setup(t){return(c,o)=>(n(),e("div",null,"InventoryCheckIndex"))}});export{a as default};

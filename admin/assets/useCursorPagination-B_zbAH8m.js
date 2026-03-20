@@ -1,0 +1,1 @@
+import{I as s}from"./index-BQBK-w7k.js";function l(){const t=s({startingAt:-1,total:0,hasMore:!1});return{pagination:t,reset:()=>{t.startingAt=-1,t.total=0,t.hasMore=!1},update:(e,n)=>{if(t.total=n,e&&e.length>0){const a=e[e.length-1];t.hasMore=e.length>=50,a.index!==void 0&&(t.startingAt=a.index)}else t.hasMore=!1}}}export{l as u};

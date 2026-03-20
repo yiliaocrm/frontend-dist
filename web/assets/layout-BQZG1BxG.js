@@ -1,0 +1,1 @@
+import t from"./aside-CBZL5sGr.js";import{a,i as n,o as r,w as s,c,N as l}from"./index-Dr0sOEYU.js";const u={__name:"layout",setup(_){return(e,m)=>{const o=a("el-container");return r(),n(o,null,{default:s(()=>[c(t),l(e.$slots,"default")]),_:3})}}};export{u as default};

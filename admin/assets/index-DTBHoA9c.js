@@ -1,0 +1,1 @@
+import{a as n,g as s,o as c,w as t,c as l,b as r}from"./index-BQBK-w7k.js";const i=Object.assign({name:"PlanIndex"},{__name:"index",setup(_){return(m,e)=>{const a=n("el-main"),o=n("el-container");return c(),s(o,null,{default:t(()=>[l(a,{class:"pd20"},{default:t(()=>e[0]||(e[0]=[r(" 后期开发 ")])),_:1})]),_:1})}}});export{i as default};

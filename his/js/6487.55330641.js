@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkeasy_admin"]=self["webpackChunkeasy_admin"]||[]).push([[6487],{6487:function(e,n,u){u.r(n),u.d(n,{default:function(){return c}});var t=function(){var e=this,n=e._self._c;return n("div",[e._v(" 11 ")])},a=[],r={name:"MarketingMaterialVideoIndex",setup(){return{}}},i=r,l=u(1001),s=(0,l.Z)(i,t,a,!1,null,null,null),c=s.exports}}]);

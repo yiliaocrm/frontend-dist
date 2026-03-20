@@ -1,0 +1,1 @@
+import{_ as o,g as t,o as a}from"./index-Dr0sOEYU.js";const s={class:"default-form"},r=Object.assign({name:"WorkflowNodeFormDefault"},{__name:"form",setup(_,{expose:e}){return e({validate:()=>!0}),(c,n)=>(a(),t("div",s,"当前节点暂无可配置项"))}}),f=o(r,[["__scopeId","data-v-39add797"]]);export{f as default};

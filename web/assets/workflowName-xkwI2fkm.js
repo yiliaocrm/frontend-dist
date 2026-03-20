@@ -1,0 +1,1 @@
+const n=t=>String(t).padStart(2,"0"),g=(t=new Date)=>{const a=t instanceof Date?t:new Date(t),e=Number.isNaN(a.getTime())?new Date:a,o=String(e.getFullYear()),r=n(e.getMonth()+1),s=n(e.getDate()),c=n(e.getHours()),u=n(e.getMinutes());return`${o}${r}${s}${c}${u}`},m=(t=new Date)=>`新建工作流${g(t)}`;export{m as g};
