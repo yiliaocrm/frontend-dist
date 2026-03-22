@@ -1,1 +1,0 @@
-import{p as e}from"./index-CpktMY2k.js";const r=e("install",{state:()=>({steps:[],currentStep:0,admin_url:""}),actions:{setSteps(t){this.steps=t},setCurrentStep(t){this.currentStep=t},setAdminUrl(t){this.admin_url=t}}});export{r as u};
