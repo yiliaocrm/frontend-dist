@@ -1,1 +1,0 @@
-import a from"./form-Bh14BJVJ.js";import"./index-DwzAKEMC.js";const i={type:"add_tag",config:{label:"添加标签",icon:"el-icon-collection-tag",iconBg:"#3B82F6",iconColor:"#ffffff",category:"action"},form:a,rules:{},createInitialData:()=>({tags:[],tagsText:""}),validate:t=>(Array.isArray(t.tags)?t.tags:[]).length?!0:"请至少输入一个标签"};export{i as default};
