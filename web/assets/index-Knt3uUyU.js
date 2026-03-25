@@ -1,0 +1,1 @@
+import o from"./form-KaTgp5mA.js";import"./index-BrN5_dQ0.js";const a={type:"default",config:{label:"默认节点",icon:"el-icon-document",iconBg:"#9CA3AF",iconColor:"#ffffff",category:"common"},form:o,rules:{},createInitialData:()=>({}),validate:()=>!0};export{a as default};

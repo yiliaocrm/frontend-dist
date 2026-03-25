@@ -1,1 +1,0 @@
-import o from"./form-z0-j0ldK.js";import"./index-CaKkQaIF.js";const i={type:"end",config:{label:"结束节点",icon:"el-icon-switch-button",iconBg:"#EF4444",iconColor:"#ffffff",category:"control"},form:o,rules:{},createInitialData:()=>({note:""}),validate:()=>!0};export{i as default};
