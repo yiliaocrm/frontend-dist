@@ -6,5 +6,5 @@ const APP_CONFIG = {
   //APP_NAME: "SCUI",
 
   //接口地址，如遇跨域需使用nginx代理
-  API_URL: '',
+  API_URL: window.location.protocol + '//' + window.location.host,
 }
