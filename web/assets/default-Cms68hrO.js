@@ -1,0 +1,1 @@
+import{t as e}from"./form-CKhVhisJ.js";var t={type:`default`,config:{label:`默认节点`,icon:`el-icon-document`,iconBg:`#9CA3AF`,iconColor:`#ffffff`,category:`common`},form:e,rules:{},createInitialData:()=>({}),validate:()=>!0};export{t as default};

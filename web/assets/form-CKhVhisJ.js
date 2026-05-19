@@ -1,0 +1,1 @@
+import{P as e,Pn as t,Xt as n,fn as r}from"./index-CZsUSm9T.js";var i=t({default:()=>o}),a={class:`default-form`},o=e(Object.assign({name:`WorkflowNodeFormDefault`},{__name:`form`,setup(e,{expose:t}){return t({validate:()=>!0}),(e,t)=>(r(),n(`div`,a,`当前节点暂无可配置项`))}}),[[`__scopeId`,`data-v-bc8bc87b`]]);export{i as n,o as t};

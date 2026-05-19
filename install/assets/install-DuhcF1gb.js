@@ -1,0 +1,1 @@
+import{s}from"./index-afPA8Cv2.js";const r=s("install",{state:()=>({steps:[],currentStep:0,admin_url:""}),actions:{setSteps(t){this.steps=t},setCurrentStep(t){this.currentStep=t},setAdminUrl(t){this.admin_url=t}}});export{r as u};

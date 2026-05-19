@@ -1,0 +1,1 @@
+var e=e=>String(e).padStart(2,`0`),t=(t=new Date)=>{let n=t instanceof Date?t:new Date(t),r=Number.isNaN(n.getTime())?new Date:n;return`${String(r.getFullYear())}${e(r.getMonth()+1)}${e(r.getDate())}${e(r.getHours())}${e(r.getMinutes())}`},n=(e=new Date)=>`新建工作流${t(e)}`;export{n as t};
