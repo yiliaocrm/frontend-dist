@@ -1,0 +1,1 @@
+import e from"./form-D_xadDm3.js";var t={type:`log`,config:{label:`日志`,icon:`el-icon-document`,iconBg:`#10b981`,iconColor:`#ffffff`,category:`control`},form:e,rules:{},createInitialData:()=>({message:`workflow execution {{trigger.event}} model {{trigger.model_id}}`,with_context:!0}),validate:e=>String(e?.message||``).trim()?!0:`日志消息不能为空`};export{t as default};

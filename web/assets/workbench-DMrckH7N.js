@@ -1,0 +1,1 @@
+import{Xt as e,fn as t}from"./index-BzNsj_y3.js";var n=Object.assign({name:`WorkbenchIndex`},{__name:`index`,setup(n){return(n,r)=>(t(),e(`div`,null,`空的跳转页面`))}});export{n as default};

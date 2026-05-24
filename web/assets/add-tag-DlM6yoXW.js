@@ -1,0 +1,1 @@
+import e from"./form-M9nv3qbo.js";var t={type:`add_tag`,config:{label:`添加标签`,icon:`el-icon-collection-tag`,iconBg:`#3B82F6`,iconColor:`#ffffff`,category:`action`},form:e,rules:{},createInitialData:()=>({tags:[],tagsText:``}),validate:e=>(Array.isArray(e.tags)?e.tags:[]).length?!0:`请至少输入一个标签`};export{t as default};

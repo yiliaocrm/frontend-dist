@@ -1,1 +1,0 @@
-import e from"./form-DM-r9-eE.js";var t={type:`end`,config:{label:`结束节点`,icon:`el-icon-switch-button`,iconBg:`#EF4444`,iconColor:`#ffffff`,category:`control`},form:e,rules:{},createInitialData:()=>({note:``}),validate:()=>!0};export{t as default};

@@ -1,0 +1,1 @@
+import{Jt as e,P as t,fn as n,gn as r}from"./index-BzNsj_y3.js";var i={};function a(t,i){let a=r(`router-view`);return n(),e(a)}var o=t(i,[[`render`,a]]);export{o as default};

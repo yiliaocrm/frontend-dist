@@ -1,0 +1,1 @@
+import{Jt as e,Pn as t,Qt as n,fn as r,gn as i,hn as a,xn as o}from"./index-BzNsj_y3.js";import{t as s}from"./aside-C3xdokmx.js";var c=t({default:()=>l}),l={__name:`layout`,setup(t){return(t,c)=>{let l=i(`el-container`);return r(),e(l,null,{default:o(()=>[n(s),a(t.$slots,`default`)]),_:3})}}};export{c as n,l as t};

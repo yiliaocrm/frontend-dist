@@ -1,1 +1,0 @@
-import{Xt as e,fn as t}from"./index-CZsUSm9T.js";var n=Object.assign({name:`WorkbenchIndex`},{__name:`index`,setup(n){return(n,r)=>(t(),e(`div`,null,`空的跳转页面`))}});export{n as default};
